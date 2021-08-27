@@ -1,0 +1,43 @@
+body {
+    background-color:linen;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+}
+
+.paper {
+    background-color: darkgrey;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.name-tag {
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+    display: grid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    grid-template-rows: 50px 40px 80px 20px; 
+    line-height: 1.2em;
+    padding-top: 8px;
+}
+
+.greeting {
+    font-size: 4rem;
+    font-weight: 800;
+    letter-spacing: 3px;
+}
+
+.name {
+    background-color: white; 
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    padding-top: 7%;
+}
+
+
+
+
+
